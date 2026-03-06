@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Python developer who builds games, desktop tools, and voice-powered apps. My projects span Pygame game development, API integrations, GUI tools with Tkinter, and Generative AI exploration.
+I'm a Gen AI Web/Python developer who builds games, desktop tools, and voice-powered apps. My projects span Pygame game development, API integrations, GUI tools with Tkinter, and Generative AI exploration.
 
 - 🔭 Currently working on Python-based projects & GenAI experiments
 - 🌱 Learning more about TensorFlow, data science workflows & AI pipelines
