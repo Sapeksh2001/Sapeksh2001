@@ -40,7 +40,7 @@ I'm a Gen AI Web/Python developer who builds games, desktop tools, and voice-pow
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description | Stack | Status |
 |--------|-------------|-------|--------|
@@ -52,12 +52,14 @@ I'm a Gen AI Web/Python developer who builds games, desktop tools, and voice-pow
 
 ---
 
-## Stats & Impact
+## GitHub Stats
 
 <div align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sapeksh2001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapeksh2001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sapeksh2001&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)
 
 </div>
 
