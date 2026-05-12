@@ -10,13 +10,13 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Gen AI Web/Python developer who builds games, desktop tools, and voice-powered apps. My projects span Pygame game development, API integrations, GUI tools with Tkinter, and Generative AI exploration.
 
-- 🔭 Currently working on Python-based projects & GenAI experiments
-- 🌱 Learning more about TensorFlow, data science workflows & AI pipelines
-- 📍 Based in Ghaziabad, India
+- Currently working on Python-based projects & GenAI experiments
+- Learning more about TensorFlow, data science workflows & AI pipelines
+- Based in Ghaziabad, India
 
 ---
 
@@ -46,19 +46,19 @@ I'm a Gen AI Web/Python developer who builds games, desktop tools, and voice-pow
 
 ---
 
-## 🚀 Projects
+## Projects
 
 | Project | Description | Stack | Deploy |
 |--------|-------------|-------|--------|
-| [⚔️ Pokemon Battle Arena](https://github.com/Sapeksh2001/pokemon-battle-arena) | Full-stack multiplayer Pokémon battle web app with real-time gameplay, abilities, movesets & a custom dataset | `Node.js` `JavaScript` `HTML/CSS` `Socket.io` | ![Vercel](https://img.shields.io/badge/Vercel-live-000?style=flat-square&logo=vercel) ![Render](https://img.shields.io/badge/Render-live-46E3B7?style=flat-square&logo=render&logoColor=black) |
-| [🃏 TCG-Simulator](https://github.com/Sapeksh2001/TCG-Simulator) | Desktop Pokémon card battle game with turn-based mechanics, status effects, animations & TTS feedback | `Python` `Pygame` `Tkinter` | — |
-| [🎙️ Audio-Calculator](https://github.com/Sapeksh2001/Audio-Calculator) | Voice-controlled math solver — speak a query, get it solved via WolframAlpha API and read back aloud | `Python` `SpeechRecognition` `WolframAlpha API` `TTS` | — |
-| [📥 Youtube-Downloader](https://github.com/Sapeksh2001/Youtube-Downloader) | Download YouTube videos or full playlists in best available format via a clean GUI | `Python` `yt-dlp` `Tkinter` | — |
-| [🔤 WordHunt](https://github.com/Sapeksh2001/WordHunt) | Wordle clone with live online word list and full Pygame UI | `Python` `Pygame` `requests` | — |
+| [Pokemon Battle Arena](https://github.com/Sapeksh2001/pokemon-battle-arena) | Full-stack multiplayer Pokémon battle web app with real-time gameplay, abilities, movesets & a custom dataset | `Node.js` `JavaScript` `HTML/CSS` `Socket.io` | ![Vercel](https://img.shields.io/badge/Vercel-live-000?style=flat-square&logo=vercel) ![Render](https://img.shields.io/badge/Render-live-46E3B7?style=flat-square&logo=render&logoColor=black) |
+| [TCG-Simulator](https://github.com/Sapeksh2001/TCG-Simulator) | Desktop Pokémon card battle game with turn-based mechanics, status effects, animations & TTS feedback | `Python` `Pygame` `Tkinter` | — |
+| [Audio-Calculator](https://github.com/Sapeksh2001/Audio-Calculator) | Voice-controlled math solver — speak a query, get it solved via WolframAlpha API and read back aloud | `Python` `SpeechRecognition` `WolframAlpha API` `TTS` | — |
+| [Youtube-Downloader](https://github.com/Sapeksh2001/Youtube-Downloader) | Download YouTube videos or full playlists in best available format via a clean GUI | `Python` `yt-dlp` `Tkinter` | — |
+| [WordHunt](https://github.com/Sapeksh2001/WordHunt) | Wordle clone with live online word list and full Pygame UI | `Python` `Pygame` `requests` | — |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
