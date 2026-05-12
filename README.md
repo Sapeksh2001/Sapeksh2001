@@ -20,7 +20,7 @@ I'm a Gen AI Web/Python developer who builds games, desktop tools, and voice-pow
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
