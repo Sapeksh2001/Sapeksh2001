@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Sapeksh&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Game%20Dev&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Sapeksh&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Architect%20%7C%20Game%20Dev&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+with+Python+%F0%9F%90%8D;Exploring+Generative+AI+%F0%9F%A4%96;Game+Dev+with+Pygame+%F0%9F%8E%AE;Voice+Interfaces+%26+API+Integrations+%F0%9F%8E%99%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+with+React+19+%26+TS+%E2%9A%9B%EF%B8%8F;Orchestrating+AI+Agents+%F0%9F%A4%96;Full-Stack+Real-time+Engines+%F0%9F%94%A5;Python+Automation+%26+Game+Dev+%F0%9F%8E%AE" alt="Typing SVG" />
 </a>
 
 </div>
 
 ---
 
-## About Me
+## Technical Profile
 
 I'm a Gen AI Web/Python developer who builds games, desktop tools, and voice-powered apps. My projects span Pygame game development, API integrations, GUI tools with Tkinter, and Generative AI exploration.
 
@@ -23,49 +23,41 @@ I'm a Gen AI Web/Python developer who builds games, desktop tools, and voice-pow
 ## Tech Stack
 
 **Languages**
-
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Runtime**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+**Frameworks & Core**
+![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**AI & Data**
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Deployment & Tools**
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## Projects
+## Featured Projects
 
-| Project | Description | Stack | Deploy |
+| Project | Description | Stack | Status |
 |--------|-------------|-------|--------|
-| [Pokemon Battle Arena](https://github.com/Sapeksh2001/pokemon-battle-arena) | Full-stack multiplayer Pokémon battle web app with real-time gameplay, abilities, movesets & a custom dataset | `Node.js` `JavaScript` `HTML/CSS` `Socket.io` | ![Vercel](https://img.shields.io/badge/Vercel-live-000?style=flat-square&logo=vercel) ![Render](https://img.shields.io/badge/Render-live-46E3B7?style=flat-square&logo=render&logoColor=black) |
-| [TCG-Simulator](https://github.com/Sapeksh2001/TCG-Simulator) | Desktop Pokémon card battle game with turn-based mechanics, status effects, animations & TTS feedback | `Python` `Pygame` `Tkinter` | — |
-| [Audio-Calculator](https://github.com/Sapeksh2001/Audio-Calculator) | Voice-controlled math solver — speak a query, get it solved via WolframAlpha API and read back aloud | `Python` `SpeechRecognition` `WolframAlpha API` `TTS` | — |
-| [Youtube-Downloader](https://github.com/Sapeksh2001/Youtube-Downloader) | Download YouTube videos or full playlists in best available format via a clean GUI | `Python` `yt-dlp` `Tkinter` | — |
-| [WordHunt](https://github.com/Sapeksh2001/WordHunt) | Wordle clone with live online word list and full Pygame UI | `Python` `Pygame` `requests` | — |
+| **[MasterAgents](https://github.com/Sapeksh2001/MasterAgents)** | Massive orchestration system with 49 autonomous agents and 1400+ skills. Parallel task sequencing. | `Python` `AI Agents` | 🛠️ Scaling |
+| **[Pokemon Battle Arena](https://github.com/Sapeksh2001/Pokemon-Battle-Arena)** | Real-time Gen 5 battle engine. React 19 & Firebase. Supports 6-player multiplayer battles. | `React 19` `TS` `Firebase` | 🟢 Live |
+| **[JD-Analyser](https://github.com/Sapeksh2001/JD-Analyser)** | Intelligent company research & interview prep. Multi-LLM support (Groq/Gemini/OpenAI). | `Flask` `LLMs` `Python` | 🟢 Live |
+| **[Audio-Calculator](https://github.com/Sapeksh2001/Audio-Calculator)** | Voice-controlled math solver with WolframAlpha API and TTS feedback loops. | `Python` `Speech` `API` | 🟢 Stable |
+| **[TCG-Simulator](https://github.com/Sapeksh2001/TCG-Simulator)** | Python-based TCG engine with turn-based mechanics and custom animation state machines. | `Pygame` `Python` | 🟢 Stable |
 
 ---
 
-## GitHub Stats
+## Stats & Impact
 
 <div align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sapeksh2001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapeksh2001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Sapeksh2001&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)
 
 </div>
 
