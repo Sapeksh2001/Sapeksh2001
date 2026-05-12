@@ -8,6 +8,8 @@
 
 </div>
 
+---
+
 About Me
 
 I'm a Python developer who builds production-quality tools across AI agent orchestration, full-stack web apps, computer vision, and game development. My projects apply OOP design patterns, multi-LLM pipelines, and real-time streaming — with an emphasis on documented architecture and clean refactoring.
@@ -16,6 +18,8 @@ I'm a Python developer who builds production-quality tools across AI agent orche
 - Working across Flask web apps, OOP desktop tools & real-time multiplayer
 - Every project ships with architecture docs, bug fix logs, and `requirements.txt`
 - Based in Ghaziabad, India
+
+---
 
 Tech Stack
 
@@ -50,6 +54,8 @@ Tech Stack
 ![python-dotenv](https://img.shields.io/badge/python--dotenv-ECD53F?style=for-the-badge&logo=python&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
 Projects
 
 ### Web & Full-Stack
@@ -81,6 +87,8 @@ Projects
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [ MasterAgents](https://github.com/Sapeksh2001/MasterAgents) | Multi-agent AI orchestration bundle — Global Orchestrator, 1,452 skills, 49 expert agents covering UI/UX, security, performance, and multi-framework dev. Shell installer included | `Python` `Shell` `JS` `TypeScript` |
+
+---
 
 GitHub Stats
 
