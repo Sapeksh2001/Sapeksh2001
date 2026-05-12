@@ -8,7 +8,7 @@
 
 </div>
 
---- ## About Me
+About Me
 
 I'm a Python developer who builds production-quality tools across AI agent orchestration, full-stack web apps, computer vision, and game development. My projects apply OOP design patterns, multi-LLM pipelines, and real-time streaming — with an emphasis on documented architecture and clean refactoring.
 
@@ -17,7 +17,7 @@ I'm a Python developer who builds production-quality tools across AI agent orche
 - Every project ships with architecture docs, bug fix logs, and `requirements.txt`
 - Based in Ghaziabad, India
 
---- ## Tech Stack
+Tech Stack
 
 **Languages**
 
@@ -50,7 +50,7 @@ I'm a Python developer who builds production-quality tools across AI agent orche
 ![python-dotenv](https://img.shields.io/badge/python--dotenv-ECD53F?style=for-the-badge&logo=python&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
---- ## Projects
+Projects
 
 ### Web & Full-Stack
 
@@ -82,7 +82,7 @@ I'm a Python developer who builds production-quality tools across AI agent orche
 |--------|-------------|-------|
 | [ MasterAgents](https://github.com/Sapeksh2001/MasterAgents) | Multi-agent AI orchestration bundle — Global Orchestrator, 1,452 skills, 49 expert agents covering UI/UX, security, performance, and multi-framework dev. Shell installer included | `Python` `Shell` `JS` `TypeScript` |
 
---- ## GitHub Stats
+GitHub Stats
 
 <div align="center">
 
@@ -93,7 +93,7 @@ I'm a Python developer who builds production-quality tools across AI agent orche
 
 </div>
 
---- <div align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/sapeksh1248" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:sapeksh4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-sapeksh4@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
