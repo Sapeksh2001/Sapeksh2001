@@ -86,8 +86,8 @@ I'm a Python developer who builds production-quality tools across AI agent orche
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-eight.vercel.app/api?username=Sapeksh2001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-<img height="170" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Sapeksh2001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sapeksh2001&theme=tokyonight"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sapeksh2001&theme=tokyonight"/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sapeksh2001&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)
 
